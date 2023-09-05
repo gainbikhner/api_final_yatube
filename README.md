@@ -1,10 +1,12 @@
-# api_final_yatube
+# REST API для проекта Yatube
 
 ## Описание
 
+Реализована аутентификация по JWT-токену.
+
 ### Автор
 
-https://github.com/kegone
+https://github.com/gainbikhner
 
 ### Стек технологий
 
@@ -23,7 +25,7 @@ http://127.0.0.1:8000/redoc/
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone https://github.com/kegone/api_final_yatube.git
+git clone https://github.com/gainbikhner/api_final_yatube.git
 ```
 
 ```
